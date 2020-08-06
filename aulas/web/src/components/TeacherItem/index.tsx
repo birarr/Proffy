@@ -7,7 +7,7 @@ import './styles.css';
 function TeacherItem() {
     return ( <article className="teacher-item">
                         <header>
-                            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG5Y4CWYU5O9g/profile-displayphoto-shrink_100_100/0?e=1602115200&v=beta&t=kxAL19qlxNeNbuGJh13-Zj0Bh83lxWbNsfrTdtDbZOghttps://avatars2.githubusercontent.com/u/38991074?s=460&u=d4c19763761b5948f944ad80a02b6d9646f12757&v=4" alt="Ubiratan Rodrigues"/>
+                            <img src="https://avatars2.githubusercontent.com/u/38991074?s=460&u=d4c19763761b5948f944ad80a02b6d9646f12757&v=4" alt="Ubiratan Rodrigues"/>
                             <div>
                                 <strong>Ubiratan Rodrigues</strong>
                                 <span>História</span>

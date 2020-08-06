@@ -15,6 +15,9 @@
 .teacher-item header div {
     margin-left: 2.4rem;
 }
+.teacher-item header img {
+    max-width: 35%;
+}
 
 .teacher-item header div strong {
     font: 700 2.4rem Archivo;
